@@ -1,6 +1,3 @@
 some content
 and here
 amending on cli
-Side by side
-We're marching into destiny
----------------------------------
