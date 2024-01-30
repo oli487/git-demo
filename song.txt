@@ -9,4 +9,4 @@ We're marching into destiny
 ---------------------------------
 feature elso sor, elso commit
 feature masodik sor, masodik commit
-
+paraszt feature last
