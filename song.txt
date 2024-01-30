@@ -7,3 +7,6 @@ From the lines
 Shield by shield
 We're marching into destiny
 ---------------------------------
+feature elso sor, elso commit
+feature masodik sor, masodik commit
+
