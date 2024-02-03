@@ -8,3 +8,5 @@ Shield by shield
 We're marching into destiny
 ---------------------------------
 secound couplete
+
+third couplete
